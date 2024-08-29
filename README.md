@@ -11,8 +11,10 @@
   - cos類似度計算による回答のランク付け
   - topNに入る確率での評価
 ## 環境構築
-jupyter notebook(pyhon3.9)で動作確認。\\
-OpenAI APIキーを取得し、your-api-keyの部分に書くこと。\\
+jupyter notebook(pyhon3.9)で動作確認。
+
+OpenAI APIキーを取得し、your-api-keyの部分に書くこと。
+
 google colabなどでも動作するはず...。
 ## データセット
 官公庁よくある質問集データセット(https://huggingface.co/datasets/matsuxr/JaGovFaqs-22k) をダウンロードし、適切なディレクトリに配置すること。
