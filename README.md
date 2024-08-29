@@ -14,4 +14,4 @@
 jupyter notebook(pyhon3.9)で動作確認。
 google colabなどでも動作するはず...。
 ## データセット
-官公庁よくある質問集データセット(https://huggingface.co/datasets/matsuxr/JaGovFaqs-22k)をダウンロードし、適切なディレクトリに配置すること。
+官公庁よくある質問集データセット(https://huggingface.co/datasets/matsuxr/JaGovFaqs-22k) をダウンロードし、適切なディレクトリに配置すること。
