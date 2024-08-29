@@ -11,6 +11,7 @@
   - cos類似度計算による回答のランク付け
   - topNに入る確率での評価
 ## 環境構築
-jupyter notebook上で動作するため、環境構築は不要
+jupyter notebook(pyhon3.9)で動作確認。
+google colabなどでも動作するはず...。
 ## データセット
-官公庁よくある質問集データセット(https://huggingface.co/datasets/matsuxr/JaGovFaqs-22k)をダウンロードし、適切なディレクトリに配置すること
+官公庁よくある質問集データセット(https://huggingface.co/datasets/matsuxr/JaGovFaqs-22k)をダウンロードし、適切なディレクトリに配置すること。
